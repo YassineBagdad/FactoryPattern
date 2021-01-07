@@ -3,13 +3,14 @@ require 'IDB.php';
 require 'DBMysql.php';
 require 'DBOracle.php';
 require 'DBFactory.php';
+require 'Client.php';
 
 
-$db1 = DBFactory::create ('mysql:dbname=blog;host=localhost', 'root', '');
+$db = DBFactory::create ('mysql:dbname=gestion-news-test;host=localhost', 'root', '');
+
+$client=new Client();
+$users = $client->getUserFromDB($db);
 
 
-$query = $db1->doQuery('select * from article');
-
-
-var_dump($db1);
-var_dump($query);
+var_dump($db);
+var_dump($users);

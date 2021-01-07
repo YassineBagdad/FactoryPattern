@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d4756dd-026a-4ad3-81d6-2650dfd57bd7" name="Default" comment="" />
+    <list default="true" id="9d4756dd-026a-4ad3-81d6-2650dfd57bd7" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,14 +21,19 @@
   <component name="FavoritesManager">
     <favorites_list name="factory croes" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpServers">
     <servers />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
     <option name="width" value="1024" />
     <option name="height" value="728" />
   </component>
   <component name="ProjectId" id="1mFFP8cBtfGaMQzgFxfXxMJzWsi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,7 +41,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Adapter" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
@@ -65,7 +73,9 @@
       <workItem from="1514245228545" duration="592000" />
       <workItem from="1514396978163" duration="650000" />
       <workItem from="1545766305338" duration="1330000" />
-      <workItem from="1609081407446" duration="2074000" />
+      <workItem from="1609081407446" duration="8408000" />
+      <workItem from="1609111445743" duration="152000" />
+      <workItem from="1609362399218" duration="6865000" />
     </task>
     <servers />
   </component>
@@ -79,5 +89,31 @@
     <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="221" y="18" key="#CLI_Interpreters" timestamp="1609084264704">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="221" y="18" key="#CLI_Interpreters/0.0.1280.720@0.0.1280.720" timestamp="1609084264704" />
+    <state x="365" y="0" key="#PHP" timestamp="1609084266388">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="365" y="0" key="#PHP/0.0.1280.720@0.0.1280.720" timestamp="1609084266388" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1609367244288">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.720@0.0.1280.720" timestamp="1609367244288" />
+    <state x="421" y="118" key="FileChooserDialogImpl" timestamp="1609677195598">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="118" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1609677195598" />
+    <state x="248" y="195" key="NewPhpClassDialog" timestamp="1609366989900">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="248" y="195" key="NewPhpClassDialog/0.0.1280.720@0.0.1280.720" timestamp="1609366989900" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1609083899318">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1609083899318" />
   </component>
 </project>
